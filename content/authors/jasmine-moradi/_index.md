@@ -8,13 +8,5 @@ featured: true
 social:
 - title: github
   url: https://github.com/chihiro0109
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
 
 ---
