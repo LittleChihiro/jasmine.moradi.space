@@ -1,6 +1,6 @@
 ---
 title: Jasmine
-bio: ''
+bio: Life is too short not to have fun :-)
 avatar: "/images/jasmine.jpg"
 social:
 - title: Github
