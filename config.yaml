@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://jasmine.moradi.space"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Jasmine Moradi"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
