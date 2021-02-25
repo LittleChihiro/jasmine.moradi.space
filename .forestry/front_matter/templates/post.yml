@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/jealous.md
 - content/post/little-women.md
