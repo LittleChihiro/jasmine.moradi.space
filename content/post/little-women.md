@@ -7,4 +7,7 @@ date:
 hero: "/images/img_5520.jpg"
 
 ---
-She had a very small world.. 
+She had a very small world.
+
+  
+ {{< figure src**=**"/media/spf13.jpg" title**=**"Steve Francia" >}}
